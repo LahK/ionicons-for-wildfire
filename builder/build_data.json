@@ -1,0 +1,100 @@
+{
+  "build_hash": "dcb9675756ea00bf0924686c20144c46",
+  "prefix": "ivu-icon-",
+  "version": "2.0.1",
+  "name": "Ionicons",
+  "icons": [
+    {
+      "code": "0xf35b",
+      "name": "android-alert"
+    },
+    {
+      "code": "0xf104",
+      "name": "arrow-down-b"
+    },
+    {
+      "code": "0xf10a",
+      "name": "arrow-right-b"
+    },
+    {
+      "code": "0xf10f",
+      "name": "at"
+    },
+    {
+      "code": "0xf120",
+      "name": "checkmark-circled"
+    },
+    {
+      "code": "0xf123",
+      "name": "chevron-down"
+    },
+    {
+      "code": "0xf124",
+      "name": "chevron-left"
+    },
+    {
+      "code": "0xf125",
+      "name": "chevron-right"
+    },
+    {
+      "code": "0xf126",
+      "name": "chevron-up"
+    },
+    {
+      "code": "0xf128",
+      "name": "close-circled"
+    },
+    {
+      "code": "0xf13a",
+      "name": "forward"
+    },
+    {
+      "code": "0xf3c6",
+      "name": "happy-outline"
+    },
+    {
+      "code": "0xf141",
+      "name": "heart"
+    },
+    {
+      "code": "0xf31d",
+      "name": "heart-broken"
+    },
+    {
+      "code": "0xf142",
+      "name": "help-circled"
+    },
+    {
+      "code": "0xf149",
+      "name": "information-circled"
+    },
+    {
+      "code": "0xf3d0",
+      "name": "ios-arrow-down"
+    },
+    {
+      "code": "0xf3d2",
+      "name": "ios-arrow-left"
+    },
+    {
+      "code": "0xf3d3",
+      "name": "ios-arrow-right"
+    },
+    {
+      "code": "0xf47d",
+      "name": "ios-person-outline"
+    },
+    {
+      "code": "0xf4a5",
+      "name": "ios-search"
+    },
+    {
+      "code": "0xf29c",
+      "name": "load-c"
+    },
+    {
+      "code": "0xf21c",
+      "name": "refresh"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+// Ionicons Icons
+// --------------------------
+
+.ionicons,
+.#{$ionicons-prefix}android-alert:before,
+.#{$ionicons-prefix}arrow-down-b:before,
+.#{$ionicons-prefix}arrow-right-b:before,
+.#{$ionicons-prefix}at:before,
+.#{$ionicons-prefix}checkmark-circled:before,
+.#{$ionicons-prefix}chevron-down:before,
+.#{$ionicons-prefix}chevron-left:before,
+.#{$ionicons-prefix}chevron-right:before,
+.#{$ionicons-prefix}chevron-up:before,
+.#{$ionicons-prefix}close-circled:before,
+.#{$ionicons-prefix}forward:before,
+.#{$ionicons-prefix}happy-outline:before,
+.#{$ionicons-prefix}heart:before,
+.#{$ionicons-prefix}heart-broken:before,
+.#{$ionicons-prefix}help-circled:before,
+.#{$ionicons-prefix}information-circled:before,
+.#{$ionicons-prefix}ios-arrow-down:before,
+.#{$ionicons-prefix}ios-arrow-left:before,
+.#{$ionicons-prefix}ios-arrow-right:before,
+.#{$ionicons-prefix}ios-person-outline:before,
+.#{$ionicons-prefix}ios-search:before,
+.#{$ionicons-prefix}load-c:before,
+.#{$ionicons-prefix}refresh:before
+{
+  @extend .ion;
+}
+.#{$ionicons-prefix}android-alert:before { content: $ionicon-var-android-alert; }
+.#{$ionicons-prefix}arrow-down-b:before { content: $ionicon-var-arrow-down-b; }
+.#{$ionicons-prefix}arrow-right-b:before { content: $ionicon-var-arrow-right-b; }
+.#{$ionicons-prefix}at:before { content: $ionicon-var-at; }
+.#{$ionicons-prefix}checkmark-circled:before { content: $ionicon-var-checkmark-circled; }
+.#{$ionicons-prefix}chevron-down:before { content: $ionicon-var-chevron-down; }
+.#{$ionicons-prefix}chevron-left:before { content: $ionicon-var-chevron-left; }
+.#{$ionicons-prefix}chevron-right:before { content: $ionicon-var-chevron-right; }
+.#{$ionicons-prefix}chevron-up:before { content: $ionicon-var-chevron-up; }
+.#{$ionicons-prefix}close-circled:before { content: $ionicon-var-close-circled; }
+.#{$ionicons-prefix}forward:before { content: $ionicon-var-forward; }
+.#{$ionicons-prefix}happy-outline:before { content: $ionicon-var-happy-outline; }
+.#{$ionicons-prefix}heart:before { content: $ionicon-var-heart; }
+.#{$ionicons-prefix}heart-broken:before { content: $ionicon-var-heart-broken; }
+.#{$ionicons-prefix}help-circled:before { content: $ionicon-var-help-circled; }
+.#{$ionicons-prefix}information-circled:before { content: $ionicon-var-information-circled; }
+.#{$ionicons-prefix}ios-arrow-down:before { content: $ionicon-var-ios-arrow-down; }
+.#{$ionicons-prefix}ios-arrow-left:before { content: $ionicon-var-ios-arrow-left; }
+.#{$ionicons-prefix}ios-arrow-right:before { content: $ionicon-var-ios-arrow-right; }
+.#{$ionicons-prefix}ios-person-outline:before { content: $ionicon-var-ios-person-outline; }
+.#{$ionicons-prefix}ios-search:before { content: $ionicon-var-ios-search; }
+.#{$ionicons-prefix}load-c:before { content: $ionicon-var-load-c; }
+.#{$ionicons-prefix}refresh:before { content: $ionicon-var-refresh; }
