@@ -1,5 +1,5 @@
 {
-  "build_hash": "dcb9675756ea00bf0924686c20144c46",
+  "build_hash": "79c195e4fb12950d7dc7cf58454621b4",
   "prefix": "ivu-icon-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -79,6 +79,14 @@
     {
       "code": "0xf3d3",
       "name": "ios-arrow-right"
+    },
+    {
+      "code": "0xf404",
+      "name": "ios-close-empty"
+    },
+    {
+      "code": "0xf422",
+      "name": "ios-email-outline"
     },
     {
       "code": "0xf47d",
