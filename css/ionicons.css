@@ -11,7 +11,7 @@
   Modified icons to fit ionicon’s grid from original.
 */
 @font-face { font-family: "Ionicons"; src: url("../fonts/ionicons.eot?v=2.0.1"); src: url("../fonts/ionicons.eot?v=2.0.1#iefix") format("embedded-opentype"), url("../fonts/ionicons.ttf?v=2.0.1") format("truetype"), url("../fonts/ionicons.woff?v=2.0.1") format("woff"), url("../fonts/ionicons.svg?v=2.0.1#Ionicons") format("svg"); font-weight: normal; font-style: normal; }
-.ion, .ionicons, .ivu-icon-android-alert:before, .ivu-icon-arrow-down-b:before, .ivu-icon-arrow-right-b:before, .ivu-icon-at:before, .ivu-icon-checkmark-circled:before, .ivu-icon-chevron-down:before, .ivu-icon-chevron-left:before, .ivu-icon-chevron-right:before, .ivu-icon-chevron-up:before, .ivu-icon-close-circled:before, .ivu-icon-forward:before, .ivu-icon-happy-outline:before, .ivu-icon-heart:before, .ivu-icon-heart-broken:before, .ivu-icon-help-circled:before, .ivu-icon-information-circled:before, .ivu-icon-ios-arrow-down:before, .ivu-icon-ios-arrow-left:before, .ivu-icon-ios-arrow-right:before, .ivu-icon-ios-close-empty:before, .ivu-icon-ios-email-outline:before, .ivu-icon-ios-person-outline:before, .ivu-icon-ios-search:before, .ivu-icon-load-c:before, .ivu-icon-refresh:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion, .ionicons, .ivu-icon-android-alert:before, .ivu-icon-arrow-down-b:before, .ivu-icon-arrow-right-b:before, .ivu-icon-at:before, .ivu-icon-checkmark-circled:before, .ivu-icon-chevron-down:before, .ivu-icon-chevron-left:before, .ivu-icon-chevron-right:before, .ivu-icon-chevron-up:before, .ivu-icon-close-circled:before, .ivu-icon-forward:before, .ivu-icon-happy-outline:before, .ivu-icon-heart:before, .ivu-icon-heart-broken:before, .ivu-icon-help-circled:before, .ivu-icon-information-circled:before, .ivu-icon-ios-arrow-down:before, .ivu-icon-ios-arrow-left:before, .ivu-icon-ios-arrow-right:before, .ivu-icon-ios-arrow-up:before, .ivu-icon-ios-close-empty:before, .ivu-icon-ios-email-outline:before, .ivu-icon-ios-person-outline:before, .ivu-icon-ios-search:before, .ivu-icon-load-c:before, .ivu-icon-refresh:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .ivu-icon-android-alert:before { content: ""; }
 
@@ -50,6 +50,8 @@
 .ivu-icon-ios-arrow-left:before { content: ""; }
 
 .ivu-icon-ios-arrow-right:before { content: ""; }
+
+.ivu-icon-ios-arrow-up:before { content: ""; }
 
 .ivu-icon-ios-close-empty:before { content: ""; }
 
